@@ -5,9 +5,5 @@
   },
   "type" : "Collection",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
-  "items" : [ {
-    "@type" : "sc:Manifest",
-    "@id" : "https://tothpeterr.github.io/EgyptCollection/manifests/manifest.json",
-    "label" : "[Click to edit label]"
-  } ]
+  "items" : [ ]
 }
