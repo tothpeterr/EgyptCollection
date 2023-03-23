@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://tothpeterr.github.io/EgyptCollection/annotations/d5c29fa68799ed9b41039f60d94c89af.json" ],
+  "otherContent" : [ ],
   "@id" : "https://tothpeterr.github.io/EgyptCollection/annotations/collection.json",
   "label" : "All annotations loaded in tothpeterr/EgyptCollection project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
